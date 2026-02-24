@@ -30,20 +30,6 @@ It was later merged into the `main` branch following proper Git workflow practic
 
 ---
 
-## Project Structure
-
-git-practice-yourname/
-├── README.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   └── utils.py
-└── docs/
-    └── project-description.md
-
-
----
-
 ## How to Run
 
 1. Clone the repository: git clone <https://github.com/MuhaiminulJamee/git-practice-muhaiminul.git>
