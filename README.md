@@ -6,7 +6,7 @@ A simple Python project that prints my name and today's date, along with a basic
 
 ## Author
 
-**Md. Muhaiminul Islam**
+**Md. Muhaiminul Islam Jamee**
 
 ---
 
