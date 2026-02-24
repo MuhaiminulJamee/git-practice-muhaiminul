@@ -10,6 +10,18 @@ A simple Python project that prints my name and today's date, along with a basic
 
 ---
 
+## GitHub User Name
+
+**MuhaiminulJamee**
+
+---
+
+## GitHub User ID Link
+
+**https://github.com/MuhaiminulJamee**
+
+---
+
 ## Features
 
 - Prints author's name
